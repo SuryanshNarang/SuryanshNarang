@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suryansh Narang</h1>
-<h3 align="center">I'm a Full-Stack Web Developer and Cybersecurity Enthusiast based in Pune, skilled in WordPress, Shopify, React, Next.js, and AWS. Passionate about building secure, scalable web apps with a strong focus on DevSecOps and web security.</h3>
+<h3 align="center"> Passionate <strong>Full Stack Developer</strong> with hands-on experience in <strong>Web Security</strong> <strong>CMS Platforms </strong> and <strong>Devops</strong>, crafting secure and scalable digital experiences.</h3>
 
 <h3 align="center">🚀 Languages & Tools</h3>
 <p align="center">
@@ -33,7 +33,8 @@
 
 ### 🧭 The Impact Engine — *Web Developer*  
 📍 Pune, Maharashtra | 🗓️ July 2024 – Present  
-- Developed [sustanine.com](https://sustanine.com) (WordPress) with podcast integration for better engagement.  
+- Developed [sustanine.com](https://sustanine.com) and [tfdworks.in](https://tfdworks.in) using **WordPress**, integrating podcast features and custom UI components to enhance engagement and user experience.
+
 - Built Shopify e-commerce sites: [akat.in](https://akat.in), [nkjewels.com](https://nkjewels.com) with custom UIs and secure payments.  
 - Migrated and developed [excellencehospitality.in](https://excellencehospitality.in) and [tfdworks.in](https://tfdworks.in).  
 - Debugged and managed live client sites like [copperchocs.com](https://copperchocs.com) and [dewaxify.com](https://dewaxify.com).  
