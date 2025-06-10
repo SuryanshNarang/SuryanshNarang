@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suryansh Narang</h1>
-<h3 align="center">I'm a **Full-Stack Web Developer** and **Cybersecurity Enthusiast** based in Pune, Maharashtra. With strong hands-on experience in **WordPress**, **Shopify**, and modern web stacks like **React**, **Next.js**, and **AWS**, I love building user-focused, scalable, and secure web applications. I also have a deep interest in **DevSecOps** and **Web Security**, and have reported real-world vulnerabilities recognized by CERT-In.</h3>
+<h3 align="center">I'm a Full-Stack Web Developer and Cybersecurity Enthusiast based in Pune, skilled in WordPress, Shopify, React, Next.js, and AWS. Passionate about building secure, scalable web apps with a strong focus on DevSecOps and web security.</h3>
 
 <h3 align="center">🚀 Languages & Tools</h3>
 <p align="center">
